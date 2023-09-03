@@ -1,0 +1,8 @@
+.vscode
+*.dSYM/
+main
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+build
+
